@@ -1,0 +1,6 @@
+# These are ignored because WordPress overwrites them on initial install. Ignoring them should prevent potential merge conflict issues between server and git.
+src/plugins/akismet/
+src/plugins/hello.php
+src/themes/twentytwenty*/
+
+.env
